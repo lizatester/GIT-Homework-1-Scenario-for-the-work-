@@ -59,7 +59,7 @@ git push
 
 git add file.json
 
-git commit -m "File has cnhaged"
+git commit -m "File has changed"
 
 git push
 
