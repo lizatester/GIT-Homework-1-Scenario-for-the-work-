@@ -15,7 +15,7 @@ git clone https://github.com/NameOfYourGitHub/NameOfRepository.git()
  
 
 3. Внутри локального JSON создать файл “new.json”.
-
+cd/c/git/JSON
 touch new.json
  
 
